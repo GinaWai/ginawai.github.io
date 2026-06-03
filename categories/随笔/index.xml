@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>随笔 on GinaWai</title><link>https://ginawai.com/categories/%E9%9A%8F%E7%AC%94/</link><description>Recent content in 随笔 on GinaWai</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://ginawai.com/categories/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World — 我的第一篇博客</title><link>https://ginawai.com/posts/hello-world/</link><pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate><guid>https://ginawai.com/posts/hello-world/</guid><description>&lt;h2 id="欢迎来到-ginawai"&gt;欢迎来到 GinaWai&lt;/h2&gt;
+&lt;p&gt;这是我博客的第一篇文章。&lt;/p&gt;
+&lt;p&gt;用 Hugo 搭建静态博客，托管在 GitHub Pages，通过 Cloudflare 加速，使用自定义域名 &lt;strong&gt;ginawai.com&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3 id="为什么选择自托管博客"&gt;为什么选择自托管博客？&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;完全掌控内容&lt;/strong&gt;：不依赖任何第三方平台&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;免费托管&lt;/strong&gt;：GitHub Pages 完全免费&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;速度极快&lt;/strong&gt;：静态页面 + Cloudflare CDN&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Markdown 写作&lt;/strong&gt;：专注内容，格式简洁&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="接下来"&gt;接下来&lt;/h3&gt;
+&lt;p&gt;我会在这里分享生活、技术和各种有趣的想法。&lt;/p&gt;</description></item></channel></rss>
